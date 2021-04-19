@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\Assessment\Ebenezer-Aina\Question3\bin\Debug\net5.0\Question3.exe
+C:\CodebitsAcademy\Assessment\Ebenezer-Aina\Question3\bin\Debug\net5.0\Question3.deps.json
+C:\CodebitsAcademy\Assessment\Ebenezer-Aina\Question3\bin\Debug\net5.0\Question3.runtimeconfig.json
+C:\CodebitsAcademy\Assessment\Ebenezer-Aina\Question3\bin\Debug\net5.0\Question3.runtimeconfig.dev.json
+C:\CodebitsAcademy\Assessment\Ebenezer-Aina\Question3\bin\Debug\net5.0\Question3.dll
+C:\CodebitsAcademy\Assessment\Ebenezer-Aina\Question3\bin\Debug\net5.0\ref\Question3.dll
+C:\CodebitsAcademy\Assessment\Ebenezer-Aina\Question3\bin\Debug\net5.0\Question3.pdb
+C:\CodebitsAcademy\Assessment\Ebenezer-Aina\Question3\obj\Debug\net5.0\Question3.csprojAssemblyReference.cache
+C:\CodebitsAcademy\Assessment\Ebenezer-Aina\Question3\obj\Debug\net5.0\Question3.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\Assessment\Ebenezer-Aina\Question3\obj\Debug\net5.0\Question3.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\Assessment\Ebenezer-Aina\Question3\obj\Debug\net5.0\Question3.AssemblyInfo.cs
+C:\CodebitsAcademy\Assessment\Ebenezer-Aina\Question3\obj\Debug\net5.0\Question3.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\Assessment\Ebenezer-Aina\Question3\obj\Debug\net5.0\Question3.dll
+C:\CodebitsAcademy\Assessment\Ebenezer-Aina\Question3\obj\Debug\net5.0\ref\Question3.dll
+C:\CodebitsAcademy\Assessment\Ebenezer-Aina\Question3\obj\Debug\net5.0\Question3.pdb
+C:\CodebitsAcademy\Assessment\Ebenezer-Aina\Question3\obj\Debug\net5.0\Question3.genruntimeconfig.cache
